@@ -1,0 +1,43 @@
+#parent{ 
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    position: absolute
+}
+
+.example{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+
+#example1{
+    background-color: blue;
+    right: 0;
+}
+
+#example2{
+    background-color: green;
+    left: 0;
+}
+
+#example3{
+    background-color: purple;
+    right: 0;
+    bottom: 0;
+}
+
+#example4{
+    background-color: yellow;
+    left: 0;
+    bottom: 0;
+}
+
+#example5{
+    background-color: white;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+}
